@@ -1,0 +1,12 @@
+openpyxl==2.5.4
+xlrd==1.0.0
+Pmw==2.0.1
+xlrd==1.0.0
+numpy==1.14.2
+comtypes==1.1.4
+IMAPClient==2.0.0
+python_docx==0.8.6
+openpyxl==2.5.4
+pandas==0.22.0
+docx==0.2.4
+pyzmail==1.0.3
